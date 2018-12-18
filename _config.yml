@@ -98,24 +98,25 @@ navigation_header:
   Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Original Site Template Created by David Darnes: https://darn.es
+  View This Site's Source Code: https://github.com/bemeadows/stayathomewifelife
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
   Google+: https://plus.google.com/+DavidDarnes
   GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  link: https://stayathomewifelife.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
   facebook: "#3B5998"
   Google+: "#DC4E41"
-  # Pinterest: "#BD081C"
-  # LinkedIn: "#0077B5"
+  Pinterest: "#BD081C"
+  LinkedIn: "#0077B5"
   # tumblr: "#36465D"
-  # Reddit: "#FF4500"
+  Reddit: "#FF4500"
   # Hacker News: "#ff6600"
   # Designer News: "#2D72D9"
   # Email: ""
