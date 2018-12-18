@@ -90,16 +90,15 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Elements: /elements/
+  Home: /blog/
   Blog: /blog/
   Categories: /categories/
   Search: /search/
   Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Original Site Template Created by David Darnes: https://darn.es
-  View This Site's Source Code: https://github.com/bemeadows/stayathomewifelife
+  Original Template: https://alembic.darn.es
+  Source Code: https://github.com/bemeadows/stayathomewifelife
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
