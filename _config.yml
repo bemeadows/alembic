@@ -88,9 +88,9 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /blog/
   Blog: /blog/
   Categories: /categories/
+  About: /about/
   Search: /search/
 
 navigation_footer:
