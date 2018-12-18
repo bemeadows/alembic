@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ben's CMS Test Post
+title: Ben's CMS Test Post1
 keywords: New Tag
 description: The world's greatest.
 thumbnail: /assets/images/uploads/img_0192-copy.jpg
