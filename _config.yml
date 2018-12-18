@@ -97,7 +97,7 @@ navigation_header:
   Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Original Template: https://alembic.darn.es
+  Original Template |: https://alembic.darn.es
   Source Code: https://github.com/bemeadows/stayathomewifelife
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
