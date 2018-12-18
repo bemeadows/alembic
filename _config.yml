@@ -59,7 +59,6 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
     feature_image: "/assets/images/header.png"
 
 # 6. Jekyll collections settings
@@ -73,7 +72,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Stay at Home Wife Life" # Site name or title, also used in jekyll-seo-tag
+title: "Stay-at-Home Wife Life" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "EXAMPLE" # Site description and default description, also used in jekyll-seo-tag
 url: "https://stayathomewifelife.netlify.com" # Site url, also used in jekyll-seo-tag
